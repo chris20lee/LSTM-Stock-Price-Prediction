@@ -1,11 +1,3 @@
-# Name/#: Shadi Chamseddine 100937807
-# Name/#: Nicolas Dirienzo  100978404
-# Name/#: Christopher Lee   100937241
-# Course Number: DATA5000 W
-# Evaluation: Final Project
-
-#https://www.codingfinance.com/post/2018-03-27-download-price/
-
 #install packages if not already installed
 if(!require(bizdays)) install.packages("bizdays")
 if(!require(caTools)) install.packages("caTools")
